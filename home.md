@@ -9,5 +9,5 @@
 ![](/images/window.jpg)  
 *You remember that you have a roof and think there was a way out that way which seems more exciting.*  
 [You take the stairs up to the roof](directions/roof1.md)  
-![](/images/stair.jpg)
+![](/images/darkstair.jpg)
 
