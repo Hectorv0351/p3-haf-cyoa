@@ -6,7 +6,7 @@
 ![](/images/frontdoor1.jpg)  
 *You see the window and think that you could be extra and leave through there.*  
 [Jump out the window](directions/window.md)
-![](/imgaes/window.jpg)  
+![](/images/window.jpg)  
 *You remember that you have a roof and think there was a way out that way which seems more exciting.*  
 [You take the stairs up to the roof](directions/roof1.md)
 ![](/images/stair.jpg)  
