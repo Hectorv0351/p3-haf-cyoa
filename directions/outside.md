@@ -1,5 +1,5 @@
 #### You are now outside in the open which way will you go.  
-[up the block](directions/darkness.md)  
+[up the block](darkness.md)  
 
-[down the block](directions/man-street.md)  
+[down the block](man-street.md)  
 
