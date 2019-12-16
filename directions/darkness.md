@@ -2,4 +2,4 @@
 ##### [Will you continue into the darkness](borkbork.md)
 ![](/images/darkness.jpg)
 ##### [Turn back to the house](returnhome.md)
-![](/images/scary door.jpg)
+![](/images/scarydoor.jpg)
