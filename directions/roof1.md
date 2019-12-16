@@ -1,3 +1,3 @@
-[Jump to your neighbor's roof](directions/deadroof.md)
+[Jump to your neighbor's roof](deadroof.md)
   
-[go down the ladder](directions/outside.md)
+[go down the ladder](outside.md)
