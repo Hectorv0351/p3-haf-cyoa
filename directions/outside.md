@@ -2,4 +2,4 @@
 [up the block](darkness.md)  
 
 [down the block](man-street.md)  
-
+![](/images/street.jpg)

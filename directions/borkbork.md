@@ -1,2 +1,2 @@
 ##### You hear a dog barking at something and then hear a chain break then a dog runs at you he looks hungry oh nooo..
-[The dog wont stopped and has now bit youre jugular vane and are bleeding out accept death](directions/wakeup.md)
+[The dog wont stopped and has now bit youre jugular vane and are bleeding out accept death](wakeup.md)
