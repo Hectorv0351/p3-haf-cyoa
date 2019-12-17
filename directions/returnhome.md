@@ -1,3 +1,4 @@
-##### You are trying to think of another way to leave the area so you rest at home while you think and so you sleep for a bit  
-[you sleep and now you smell smoke for some reason but decide to ignore it](firehouse.md)
-![](/images/fire.jpg)
+**You return back to the safety of your house to sleep until the next day hoping it will be normal day tomorrow.**  
+
+[*you start sleeping but you smell smoke for some odd reason but decide to ignore it.*](firehouse.md)  
+![](/images/fire.jpg)  
