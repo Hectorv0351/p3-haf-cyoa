@@ -8,3 +8,5 @@ Photo credit:
 **House Fire -** http://chicagoareafire.com/blog/tag/fully-involved-house-fire/  
 **Dog -** https://adelmangerman.com/blog/2017/01/vicious-dog-in-the-neighborhood.shtml  
 **Burnthouse -** https://www.northernstar.com.au/news/four-homes-lost-in-3-weeks/2733785/  
+**Your neighbor's roof -** http://www.northwestroofllc.com/roofing
+**Ladder -** https://www.grainger.com/product/LOUISVILLE-8-ft-Aluminum-Straight-Ladder-36Y334
