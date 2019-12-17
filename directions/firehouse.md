@@ -1,3 +1,3 @@
-#### Now the smell is stronger so now you wake up and see your house is on fire what can you do and your trapped
-[accept death](wakeup.md)
+##### Now the smell of smoke is stronger so you wake up and notice your house is on fire and you can do nothing but just...  
+[**Accept death**](wakeup.md)  
 ![](/images/burntdown.jpg)
