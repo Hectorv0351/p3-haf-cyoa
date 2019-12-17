@@ -1,3 +1,3 @@
-##### You hear a dog barking at something and then hear a chain break then a dog runs at you he looks hungry oh nooo..
-[The dog wont stopped and has now bit youre jugular vane and are bleeding out accept death](wakeup.md)
-![](/images/ViciousDog(1).jpg)
+##### You hear a dog barking somewhere and then hear a chain break, then a dog runs at you he looks hungry oh nooo..  
+[As the dog runs at you he bites your jugular vein and you bleed out](wakeup.md)  
+![](/images/ViciousDog(1).jpg)  
